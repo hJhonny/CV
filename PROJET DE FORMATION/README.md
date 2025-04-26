@@ -1,14 +1,18 @@
-Dans le cadre du projet j’ai réalisé une page web dynamique nommée Myuka avec le framework javascript Angular. 
+Myuka - Projet Développeur Web et Web Mobile
+Dans le cadre de ma formation Développeur Web et Web Mobile, j'ai réalisé une page web dynamique nommée Myuka en utilisant le framework JavaScript Angular.
 
+Objectif du projet
+L'objectif de cet exercice était de :
 
-Le but de l'exercice était de concevoir une fiche produit qui sera traduite en page Web par la suite à partir d’une Api REST diffusée par le site de OpenFoodFact.
+Concevoir une fiche produit,
 
-Le but est d'afficher les informations sur un produit en entrant le code-barres exemple : 50184453.
+La transformer en page web dynamique,
 
+À partir d'une API REST fournie par le site OpenFoodFacts.
 
+Le but est d'afficher toutes les informations sur un produit en saisissant son code-barres (par exemple : 50184453).
 
-Lien du projet : https://myuka-be8dd.web.app
+Liens utiles
+🔗 Projet en ligne : https://myuka-be8dd.web.app
 
-
-
-site de OpenFoodFact:  https://fr.openfoodfacts.org/
+🔗 API OpenFoodFacts : https://fr.openfoodfacts.org/
