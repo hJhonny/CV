@@ -19,8 +19,8 @@ J’aime explorer différentes technologies et construire des projets concrets.
 
 Voici les projets inclus dans ce dépôt (chacun dans un dossier séparé) :
 
-- [01-convertisseur](./PROJET MYUKA) — Application de conversion Celsius/Fahrenheit (Python)
-- [02-todolist](./BRIEF PROJET) — Application de gestion de tâches (HTML/CSS/JS)
+- [PROJET MYUKA(./PROJET MYUKA) — Application de conversion Celsius/Fahrenheit (Python)
+- [BRIEF PROJET](./BRIEF PROJET) — Application de gestion de tâches (HTML/CSS/JS)
 
 
 ---
