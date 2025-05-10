@@ -1,11 +1,11 @@
-# 🚀 Portfolio de projets
+# Portfolio de projets
 
 Bienvenue dans mon dépôt GitHub !  
 Vous trouverez ici une collection de mes projets personnels et académiques, développés pour apprendre, expérimenter et progresser en développement logiciel.
 
 ---
 
-## 👤 À propos de moi
+##  À propos de moi
 
 Je suis un(e) développeur(euse) passionné(e) par la programmation web et les outils interactifs.  
 J’aime explorer différentes technologies et construire des projets concrets.
@@ -16,7 +16,7 @@ J’aime explorer différentes technologies et construire des projets concrets.
 
 ---
 
-## 💼 Projets disponibles
+## Projets disponibles
 
 Voici les projets inclus dans ce dépôt (chacun dans un dossier séparé) :
 
