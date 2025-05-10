@@ -10,8 +10,9 @@ Vous trouverez ici une collection de mes projets personnels et académiques, dé
 Je suis un(e) développeur(euse) passionné(e) par la programmation web et les outils interactifs.  
 J’aime explorer différentes technologies et construire des projets concrets.
 
-📄 [Voir mon CV en ligne](https://mon-cv-en-ligne.com)  
-📫 Contact : ton.email@example.com
+📄 [Voir mon CV en ligne](https://cv-jhonny.onrender.com)  
+
+
 
 ---
 
