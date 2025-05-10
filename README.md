@@ -26,6 +26,6 @@ Voici les projets inclus dans ce dépôt (chacun dans un dossier séparé) :
 
 ---
 
-## ⚙️ Lancer un projet
+## Description du projet
 
 Chaque projet a son propre fichier `README.md` avec des instructions détaillées.
