@@ -28,4 +28,4 @@ Voici les projets inclus dans ce dépôt (chacun dans un dossier séparé) :
 
 ## Description du projet
 
-Chaque projet a son propre fichier `README.md` avec des instructions détaillées.
+Chaque projet a son propre fichier `README.md` avec des instructions détaillées ainsi que les ressources nécéssaires
