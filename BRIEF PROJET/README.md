@@ -12,7 +12,7 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 - Réaliser des analyses SQL.
 - Créer des visualisations en Python pour présenter les résultats.
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 - [SQLite Online](https://sqliteonline.com/) — pour importer et analyser les données avec SQL.
 - [Glitch](https://glitch.com/edit/#!/projet-dev-ia-simplon) — pour coder en Python et générer des graphiques.
@@ -31,7 +31,7 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 
 - Fichier `.sql` exporté des requêtes réalisées
 - Fiche synthèse des résultats
-- Lien vers le projet Glitch avec les graphiques réalisés
+- Lien vers le projet Glitch avec les graphiques réalisés : [Voir le projet](https://glitch.com/edit/#!/melodic-ossified-script)
 
 ##  Liens utiles
 
