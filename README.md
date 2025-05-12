@@ -21,10 +21,10 @@ J’aime explorer différentes technologies et construire des projets concrets.
 Voici les projets inclus dans ce dépôt (chacun dans un dossier séparé) :
 
 - [PROJET MYUKA](./PROJET%20MYUKA) — Application fiche produit (ANGULAR/API REST)
-- [BRIEF PROJET](./BRIEF%20PROJET) — Brief Projet (SQL/Python)
+- [BRIEF PROJET](./BRIEF%20PROJET) — Brief Projet (SQLite/Python)
 
 
 
-## Description du projet
+## Détails des projets
 
 Chaque projet a son propre fichier `README.md` avec des instructions détaillées ainsi que les ressources nécéssaires
