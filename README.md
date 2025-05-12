@@ -1,7 +1,7 @@
 # Portfolio de projets
 
 Bienvenue dans mon dépôt GitHub !  
-Vous trouverez ici une collection de mes projets personnels et académiques, développés pour apprendre, expérimenter et progresser en développement logiciel.
+Vous trouverez ici une collection de mes projets personnels et académiques, développés pour apprendre, expérimenter et progresser en développement web.
 
 ---
 
