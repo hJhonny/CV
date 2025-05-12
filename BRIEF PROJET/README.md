@@ -23,7 +23,7 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 -  Chiffre d'affaires total
 -  Ventes par produit
 -  Ventes par région
--  Graphiques : 
+-   Graphiques : 
   - Ventes par produit
   - Chiffre d'affaires par produit
 
@@ -38,8 +38,9 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 - [SQL Practice](https://sql-practice.com/)
 - [Silent Teacher - Python](https://silentteacher.toxicode.fr/hour_of_code.html?theme=basic_python)
 - [Ressources SQL](https://sql.sh/sgbd)
+- [Jeu de données ventes (CSV)](drive.google.com/file/d/1-UtwXHmex5AxenR3aI-VM54ysu4D4ajy/view?usp=sharing)
 
 ---
 
-Projet réalisé dans le cadre du parcours Simplon - Développeur en Intelligence Artificielle
+
 
