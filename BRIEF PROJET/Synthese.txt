@@ -1,26 +1,31 @@
- Chiffre d’Affaires Total
- 44 825 €
-Le chiffre d’affaires total représente la somme des ventes réalisées sur toute la période analysée.
+Chiffre d'Affaires Total : 44 825 €
 
- Ventes par Produit
+Le chiffre d’affaires total correspond à l’ensemble des ventes réalisées durant la période d'analyse.
+
+Ventes par Produit
+
 Produit	Quantité Vendue
 Produit A	1 750
 Produit B	1 055
 Produit C	575
 
- Analyse :
+Analyse :
 
-Le produit A est le plus vendu avec 1 750 unités, ce qui montre une forte demande.
+Le Produit A se distingue comme le plus vendu, avec 1 750 unités écoulées, ce qui témoigne d'une forte demande pour ce produit.
 
-Le produit B suit avec 1 055 unités, et le produit C a les ventes les plus faibles (575 unités).
+Le Produit B arrive en second avec 1 055 unités vendues.
 
- Ventes par Région
+En revanche, le Produit C enregistre les ventes les plus faibles, avec seulement 575 unités vendues.
+
+Ventes par Région
+
 Région	Quantité Vendue
 Sud	1 775
 Nord	1 605
 
- Analyse :
+Analyse :
 
-La région Sud est la plus performante, avec 1 775 produits vendus.
+La région Sud est la plus performante, avec 1 775 unités vendues.
 
-La région Nord est légèrement derrière, avec 1 605 produits vendus.
+La région Nord suit de près avec un total de 1 605 unités vendues.
+
