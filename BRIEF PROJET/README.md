@@ -30,7 +30,7 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 ##  Livrables
 
 - Fichier `.sql` exporté des requêtes réalisées :
--  [Chiffre d'affaires total](./BRIEF%20PROJET/CA_total.sql)
+-  [Chiffre d'affaires total](./BRIEF PROJET/CA_total.sql)
 -  [Ventes par produit]()
 -  [Ventes par région]()
 - Fiche synthèse des résultats
