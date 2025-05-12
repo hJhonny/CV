@@ -29,7 +29,10 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 
 ##  Livrables
 
-- Fichier `.sql` exporté des requêtes réalisées
+- Fichier `.sql` exporté des requêtes réalisées :
+-  [Chiffre d'affaires total](/CA_total.sql)
+-  [Ventes par produit]()
+-  [Ventes par région]()
 - Fiche synthèse des résultats
 - Lien vers le projet Glitch avec les graphiques réalisés : [Voir le projet](https://glitch.com/edit/#!/melodic-ossified-script)
 
