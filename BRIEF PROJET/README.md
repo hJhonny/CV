@@ -38,10 +38,10 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
   - [Ventes par produit](./ventes_par_produit.sql)  
   - [Ventes par région](./ventes_par_region.sql)  
 
-- Fiche synthèse des résultats obtenus à partir des requêtes réalisées  
+- Fiche synthèse des résultats obtenus à partir des requêtes réalisées :  [Voir la fiche](./Fiche de synthèse)]  
 
-- Lien vers le projet Glitch avec les graphiques réalisés :  
-  [Voir le projet](https://glitch.com/edit/#!/melodic-ossified-script)
+- Lien vers le projet Glitch avec les graphiques réalisés :   [Voir le projet](https://glitch.com/edit/#!/melodic-ossified-script)]
+
 ##  Liens utiles
 
 - [SQL Practice](https://sql-practice.com/)
