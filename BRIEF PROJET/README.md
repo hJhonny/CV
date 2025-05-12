@@ -34,7 +34,7 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 ## Livrables
 
 - Fichiers `.sql` exportés des requêtes réalisées :  
-  - [Chiffre d'affaires total](./CA_total.sql)  
+  - [Chiffre d'affaires total](https://drive.google.com/drive/u/0/my-drive)
   - [Ventes par produit](./ventes_par_produit.sql)  
   - [Ventes par région](./ventes_par_region.sql)  
 
