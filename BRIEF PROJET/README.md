@@ -18,25 +18,30 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
 - [Glitch](https://glitch.com/edit/#!/projet-dev-ia-simplon) — pour coder en Python et générer des graphiques.
 - [Plotly Express](https://plotly.com/python/plotly-express/) — pour la visualisation des données.
 
-##  Taches réalisées
+## Tâches réalisées
 
- -Création des requêtes SQL suivantes à partir du jeu données :
- -  Chiffre d'affaires total
--  Ventes par produit
--  Ventes par région
--  Réalisation des  graphiques suivantes en s'appuyant sur l'exemple donnée sur glitch : 
-  - Ventes par produit
-  - Chiffre d'affaires par produit
-Réalisation d'une fiche de synthèse en se basant sur les résultats obtenues à partir des requêtes  réalisées
-##  Livrables
+- Création des requêtes SQL suivantes à partir du jeu de données :  
+  - Chiffre d'affaires total  
+  - Ventes par produit  
+  - Ventes par région  
 
-- Fichier `.sql` exporté des requêtes réalisées :
--  [Chiffre d'affaires total](./CA_total.sql)
--  [Ventes par produit](./ventes_par_produit.sql)
--  [Ventes par région](./ventes_par_region.sql)
-- Fiche synthèse des résultats obtenues à partir des  requêtes réalisées
-- Lien vers le projet Glitch avec les graphiques réalisés : [Voir le projet](https://glitch.com/edit/#!/melodic-ossified-script)
+- Réalisation des graphiques suivants en s'appuyant sur l'exemple donné sur Glitch :  
+  - Ventes par produit  
+  - Chiffre d'affaires par produit  
 
+- Rédaction d'une fiche de synthèse basée sur les résultats obtenus à partir des requêtes réalisées  
+
+## Livrables
+
+- Fichiers `.sql` exportés des requêtes réalisées :  
+  - [Chiffre d'affaires total](./CA_total.sql)  
+  - [Ventes par produit](./ventes_par_produit.sql)  
+  - [Ventes par région](./ventes_par_region.sql)  
+
+- Fiche synthèse des résultats obtenus à partir des requêtes réalisées  
+
+- Lien vers le projet Glitch avec les graphiques réalisés :  
+  [Voir le projet](https://glitch.com/edit/#!/melodic-ossified-script)
 ##  Liens utiles
 
 - [SQL Practice](https://sql-practice.com/)
