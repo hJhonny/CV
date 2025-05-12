@@ -27,7 +27,7 @@ Une PME souhaite mieux comprendre la dynamique de ses ventes. En tant que dével
   - Ventes par produit
   - Chiffre d'affaires par produit
 
-## 💾 Livrables
+##  Livrables
 
 - Fichier `.sql` exporté des requêtes réalisées
 - Fiche synthèse des résultats
